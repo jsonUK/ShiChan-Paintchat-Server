@@ -1,0 +1,61 @@
+<?xml version='1.0' standalone='yes'?>
+<root>
+	<config		
+		php_port="31234"
+		pchat_port="31235"				
+		USER_LOG_SAVE_DIR="custom_saves"
+		ARCHIVE_LOG_SAVE_DIR="archive_saves"
+	/>
+	
+	<server-default
+		
+	/>
+
+	<server
+		server_id="server0"				
+	/>
+	
+	<server
+		server_id="server1"				
+	/>
+	
+	<server
+		server_id="server2"		
+	/>
+	<!-- 
+	<server
+		server_id="server2"		
+		commentString="Welcome to server"
+		File_PaintChat_Infomation="cnf/.paintchat2"
+		Connection_Port_PaintChat="23458"
+	/>
+	<server
+		server_id="server2"		
+		commentString="Welcome to server"
+		File_PaintChat_Infomation="cnf/.paintchat2"
+		Connection_Port_PaintChat="23458"
+	/>
+	
+	<server
+		server_id="server2"		
+	/>
+	<server
+		server_id="server2"		
+	/>
+	<server
+		server_id="server2"		
+	/>
+	<server
+		server_id="server2"		
+	/>
+	<server
+		server_id="server2"		
+	/>
+	<server
+		server_id="server2"		
+	/>
+	<server
+		server_id="server2"				
+	/>
+	-->
+</root>
